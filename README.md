@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @fizzairfan2310  
+- 👀 I’m interested in developing phone applications, software and exploring AI integrations.  
+- 🌱 I’m currently learning about data structures algorithms and DevOps practices.  
+- 💞️ I’m looking to collaborate on open-source projects and innovative app development.  
+- 📫 How to reach me: Email me at irfanaliipqsa@example.com or find me on LinkedIn: https://www.linkedin.com/in/fizza-irfan-baa34a286/.  
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I once built a chatbot that can help people bake the perfect sourdough!
+- 📚 In my spare time, I enjoy reading up on the latest trends in tech, especially in the realms of AI and cloud computing.  
+- 🎨 I love combining my technical skills with creativity, whether it's through design thinking in app development or writing engaging content about technology.  
+- 🤖 Currently, I’m experimenting with natural language processing to enhance user experiences in the applications I’m developing.  
+- 🌍 I believe in the power of community and knowledge sharing, which is why I frequently attend meetups and webinars.  
+- 🎉 I’m excited about the future of tech and can't wait to collaborate with like-minded individuals to drive innovation forward!
