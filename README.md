@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fizzairfan2310  
 - 👀 I’m interested in developing phone applications, software and exploring AI integrations.  
-- 🌱 I’m currently learning about data structures algorithms and DevOps practices.  
+- 🌱 I’m currently learning about data structures algorithms.  
 - 💞️ I’m looking to collaborate on open-source projects and innovative app development.  
 - 📫 How to reach me: Email me at irfanaliipqsa@example.com or find me on LinkedIn: https://www.linkedin.com/in/fizza-irfan-baa34a286/.  
 - 😄 Pronouns: She/Her 
